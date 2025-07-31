@@ -11,7 +11,6 @@ NutriGlow is a web-based AI-powered chatbot that offers personalized wellness su
   - General Wellness
 - 🥗 Personalized Diet Plans based on user goals
 - 📱 Responsive Website UI using **HTML** and **Tailwind CSS**
-- 📚 Easy-to-navigate flow: Choose Goal → Get Info → View Syllabus or Notes
 
 ## 🛠 Tech Stack
 
