@@ -25,12 +25,6 @@ NutriGlow is an AI-powered nutrition assistant that provides personalized diet p
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Harshita2211/NutriGlow.git
-cd NutriGlow
-### 2. Open the project
-Just open index.html in your browser to see the website in action.
+NutriGlow/
+├── index.html           # Main web interface
+└── README.md            # Project documentation
